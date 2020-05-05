@@ -10,15 +10,16 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
 ### Customize configuration
-Master branch uses fetch API and MirageJS to create a mock API.
+Uses fetch API and MirageJS to create a mock API.
+
+### Notes:
+* On load, first record is displayed.
+* To create a new record, click New, enter data, and Save
+* To delete record, click on desired row anc click Delete button
+* Table can be sorted by clicking on table headers.
+
+### Structure
+* Design framework - Vuetify
+* API - MiragaJS for data set and endpoints, Javascript fetch() to get records
+* State management - Vuex
