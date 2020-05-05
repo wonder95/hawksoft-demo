@@ -1,0 +1,84 @@
+{
+  "addresses": [
+    {
+      "name": "Joe Blow",
+      "email": "joe.blow@mymail.com",
+      "address": "123 Main St.",
+      "city": "Portland",
+      "state": "OR",
+      "zip": "97202"
+    },
+    {
+      "email": "sam.snead@mymail.com",
+      "name": "Sam Snead",
+      "address": "456 Main St.",
+      "city": "Gresham",
+      "state": "OR",
+      "zip": "97080"
+    },
+    {
+      "name": "Jason Witten",
+      "email": "jason,witten@mymail.com",
+      "address": "82 Tight End Rd.",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75002"
+    },
+    {
+      "name": "Amari Cooper",
+      "email": "amari.cooper@mymail.com",
+      "address": "789 Receiver St.",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75001"
+    },
+    {
+      "name": "Zeke Elliott",
+      "email": "zeke.elliot@mymail.com",
+      "address": "789 Main St.",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75043"
+    },
+    {
+      "name": "Joe Greene",
+      "email": "joe.greene@mymail.com",
+      "address": "333 NE 3rd Ave.",
+      "city": "Pitttsburgh",
+      "state": "PA",
+      "zip": "15106"
+    },
+    {
+      "name": "Dak Prescott",
+      "email": "dak.prescott@mymail.com",
+      "address": "789 Main St.",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75001"
+    },
+    {
+      "name": "John Smith",
+      "email": "john.smith@mymail.com",
+      "address": "789 Main St.",
+      "city": "Troutdale",
+      "state": "OR",
+      "zip": "97060"
+    },
+    {
+      "name": "Tyron Smith",
+      "email": "tyron.smith@mymail.com",
+      "address": "77 Lineman Blvd.",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75001"
+    },
+    {
+      "name": "Zack Martin",
+      "email": "zack.martin@mymail.com",
+      "address": "70 Center St.",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75003"
+    }
+  ]
+}
