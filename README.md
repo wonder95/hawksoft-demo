@@ -1,4 +1,5 @@
-# HawkSoft Demo
+# Vue Vuex API Demo
+A simple demo app to demostrate how to keep the data model for a form in a Vue component in sync with a back end and Vuex using a REST API.
 
 ## Project setup
 ```
